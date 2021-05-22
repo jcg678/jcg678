@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Andalucia</h3>
 
 
-- 👨‍💻 All of my projects are available at [www.javier-dev.es](www.javier-dev.es)
+- 👨‍💻 All of my projects are available at [https://www.javier-dev.es](https://www.javier-dev.es)
 
 - 📫 How to reach me **javier.developer.es@gmail.com**
 

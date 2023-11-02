@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://www.javier-dev.es](https://www.javier-dev.es)
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **javier.developer.es@gmail.com**
+- 📫 How to reach me <a href="mailto:javier.developer.es@gmail.com">javier.developer.es@gmail.com</a>
 <br><br>
 <p align="left">
 <a href="https://linkedin.com/in/javier-criado-garcia" target="blank"><img align="center" src="https://javier-dev.es/recursos/linkedin.svg" alt="javier-criado-garcia" height="30" width="40" /></a>

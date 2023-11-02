@@ -1,5 +1,5 @@
 <div style="background-color: red;" >
-<a href="https://javier-dev.es" target="_blank"> <img src="https://javier-dev.es/img/socialcard/readme.gif"/> </a>
+<p align="center"><a  href="https://javier-dev.es" target="_blank"> <img src="https://javier-dev.es/img/socialcard/readme.gif"/> </a></p>
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate fullstack developer from Andalucia</h3>
 

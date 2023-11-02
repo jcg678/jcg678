@@ -1,4 +1,5 @@
-<a href="https://javier-dev.es" target="_blank"> <img src="https://javier-dev.es/img/socialcard/readme.jpg"/> </a>
+<div style="background-color: red;" >
+<a href="https://javier-dev.es" target="_blank"> <img src="https://javier-dev.es/img/socialcard/readme.gif"/> </a>
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate fullstack developer from Andalucia</h3>
 
@@ -19,3 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcg678&" alt="jcg678" /></p>
 
+</div>
